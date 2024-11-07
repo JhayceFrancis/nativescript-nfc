@@ -51,7 +51,7 @@
   "devDependencies": {
     "@nativescript/core": "~7.0.11",
     "@nativescript/types": "~7.0.4",
-    "@nativescript/webpack": "~3.0.7",
+    "@nativescript/webpack": "~5.0.0",
     "typescript": "~3.9.7",
     "rimraf": "^2.5.0",
     "tslint": "^6.1.3",
