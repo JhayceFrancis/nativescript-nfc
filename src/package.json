@@ -50,7 +50,7 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "@nativescript/core": "~7.0.11",
-    "@nativescript/types": "~7.0.4",
+    "@nativescript/types": "~8.8.0",
     "@nativescript/webpack": "~5.0.0",
     "typescript": "~3.9.7",
     "rimraf": "^4.3.1",
